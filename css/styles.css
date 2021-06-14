@@ -1,0 +1,116 @@
+body{
+    padding:0px;
+}
+#phoneimage{
+    text-align: center;
+}
+#heading{
+    font-family: 'Pacifico', cursive;
+    font-size: 4rem;
+    margin-top:10%;
+    padding:5%;
+    line-height: 1.5;
+    color:#fff;
+    
+}
+#buttons{
+    margin:5% 2%;
+}
+.toplist{
+    margin-left: auto;
+}
+.featurebox{
+    text-align: center;
+    margin-bottom:3%;
+}
+#title{
+    background-color:#F5ABC9;
+    margin-bottom: 5%;
+}
+.maintab{
+    text-align:center;
+    
+}
+#logo{
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+    color:#822659
+}
+#link{
+    color:#B34180
+}
+#titleImage{
+    margin-top:10%;
+    width:50%;
+    transform:rotate(25deg)
+}
+#icon{
+    padding:5%;
+    color: #F5ABC9;
+}
+#h3{
+    font-size: 1.5rem;
+}
+#fb{
+    color:#808080
+}
+.testi{
+    background-color: #F5ABC9;
+    text-align: center;
+    padding: 5%;
+}
+.testi2{
+    background-color: #F5ABC9;
+    text-align: center;
+    padding: 5%;
+}
+#dogtesti{
+    width:10%;
+    border-radius:100%;
+    margin: 2%;
+}
+#sectesti{
+    width:10%;
+    border-radius:100%;
+    margin: 2%;
+}
+#testi1{
+    font-size: 3rem;
+    padding: 3%;
+    line-height: 1.5;
+}
+#testi2{
+    font-size: 3rem;
+    padding: 3%;
+    line-height: 1.5;
+}
+#press{
+    background-color: #F5ABC9;
+    text-align:center;
+}
+#pressimg{
+    width:20%;
+    padding:3%;
+}
+#testimonials{
+    background-color: #F5ABC9;
+    color: #fff;
+}
+#cards{
+    text-align: center;
+    margin:2% 3%;
+}
+
+.priceheading{
+    text-align: center;
+    margin:3%;
+}
+#cta{
+    text-align:center;
+    background-color: #F5ABC9;
+    padding:2%;
+}
+#h3{
+    margin:1.5%;
+    color: #fff;
+}
